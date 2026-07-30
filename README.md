@@ -1,21 +1,144 @@
-# 💫 About Me:
-💻 Backend Development (Java Spring Boot, Laravel, CodeIgniter, REST API)<br>🌐 Sedikit Frontend (Next.js, Bootstrap, Tailwind CSS)<br>🤖 Machine Learning (TensorFlow, CNN, EfficientNet, DenseNet)<br>🗄️ Database (MySQL, SQLite, Supabase, PocketBase)<br>☁️ Deployment (Hugging Face Spaces, Vercel, Docker)<br>🔀 Git & GitHub Collaboration (branching, merge, conflict resolution)<br>🌍 API Development & Integration<br>🖥️ Networking (Cisco Packet Tracer, OSPF, RIP, Static Routing)
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Nadjwa%20Salsabila&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nadjwa Salsabila) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nadjwasalsabila16@gmail.com) 
+<a href="https://linkedin.com/in/Nadjwa Salsabila">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer;Machine+Learning+Enthusiast;Full+Stack+Explorer;Always+Learning+Something+New;&font=Fira+Code&center=true&width=440&height=40&color=FFFFFF&vCenter=true&size=22&pause=1000&background=000000&repeat=true" alt="Typing SVG"/>
+</a>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PocketBase](https://img.shields.io/badge/pocketbase-%23b8dbe4.svg?style=for-the-badge&logo=Pocketbase&logoColor=black) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=nadjwasalsabila&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=nadjwasalsabila&theme=aura_dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=nadjwasalsabila&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</p>
 
----
-[![](https://komarev.com/ghpvc/?username=nadjwasalsabila&icon=0&color=0)](https://visitcount.itsvg.in)
+<br>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## `01` ‧ Tentang Saya
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+```txt
+class NadjwaSalsabila:
+    def __init__(self):
+        self.role      = "Backend Developer"
+        self.focus     = ["Java Spring Boot", "Laravel", "CodeIgniter"]
+        self.frontend  = ["Next.js", "Bootstrap", "Tailwind CSS"]
+        self.ml        = ["TensorFlow", "CNN", "EfficientNet", "DenseNet"]
+        self.database  = ["MySQL", "SQLite", "Supabase", "PocketBase"]
+        self.deploy    = ["Hugging Face Spaces", "Vercel", "Docker"]
+        self.network   = ["Cisco Packet Tracer", "OSPF", "RIP", "Static Routing"]
+
+    def collaborate(self):
+        return "Git & GitHub — branching, merge, conflict resolution"
+```
+
+</td>
+<td width="40%" valign="top" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%">
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## `02` ‧ Tech Stack
+
+<div align="center">
+
+**Bahasa & Framework**
+
+<img src="https://skillicons.dev/icons?i=html,js,ts,php,py,dotnet&theme=dark" />
+
+<br><br>
+
+**Frontend & Styling**
+
+<img src="https://skillicons.dev/icons?i=nextjs,bootstrap,tailwind,vue,vite&theme=dark" />
+
+<br><br>
+
+**Backend & Realtime**
+
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,electron,java,vscode&theme=dark" />
+
+<br><br>
+
+**Database**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,supabase,prisma&theme=dark" />
+
+<br><br>
+
+**Machine Learning & Tools**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,pytorch,figma,canva&theme=dark" />
+
+<br><br>
+
+**Deployment & Infra**
+
+<img src="https://skillicons.dev/icons?i=aws,docker,nginx,apache,vercel,git,github&theme=dark" />
+
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
+</p>
+
+## `03` ‧ GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.shion.dev/api?username=nadjwasalsabila&theme=github-dark-white&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" width="49%"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=nadjwasalsabila&theme=github-dark-white&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF" width="49%"/>
+
+<img src="https://streak-stats.demolab.com/?user=nadjwasalsabila&theme=github-dark-white&hide_border=true&background=00000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" width="70%"/>
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nadjwasalsabila&theme=github-compact&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+</div>
+
+<br>
+
+## `04` ‧ Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/Nadjwa Salsabila" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
+</a>
+<a href="mailto:nadjwasalsabila16@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
+</a>
+
+</div>
+
+<br>
+
+<p align="center">
+  <em>"Random dev quote, refreshed on every visit"</em><br>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border_color=000000&bg_color=000000" />
+</p>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=nadjwasalsabila&label=Profile%20Views&color=000000&style=for-the-badge" />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" width="100%"/>
+
+<sub>Proudly crafted with 🖤 — inspired by <a href="https://gprm.itsvg.in">GPRM</a></sub>
+
+</div>
