@@ -96,10 +96,10 @@ class NadjwaSalsabila:
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=nadjwasalsabila&theme=github-dark-white&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" width="49%"/>
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=nadjwasalsabila&theme=github-dark-white&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=nadjwasalsabila&hide_border=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&show_icons=true" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=nadjwasalsabila&hide_border=true&count_private=true&layout=compact&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" width="49%"/>
 
-<img src="https://streak-stats.demolab.com/?user=nadjwasalsabila&theme=github-dark-white&hide_border=true&background=00000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" width="70%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nadjwasalsabila&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" width="70%"/>
 
 </div>
 
