@@ -139,6 +139,6 @@ class NadjwaSalsabila:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" width="100%"/>
 
-<sub>Proudly crafted with 🖤 — inspired by <a href="https://gprm.itsvg.in">GPRM</a></sub>
+<sub>Proudly crafted with 🖤 — Nad</sub>
 
 </div>
