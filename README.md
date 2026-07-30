@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Nadjwa%20Salsabila&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=676765&height=200&section=header&text=Nadjwa%20Salsabila&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 <a href="https://linkedin.com/in/Nadjwa Salsabila">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer;Machine+Learning+Enthusiast;Full+Stack+Explorer;Always+Learning+Something+New;&font=Fira+Code&center=true&width=440&height=40&color=FFFFFF&vCenter=true&size=22&pause=1000&background=000000&repeat=true" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer;Machine+Learning+Enthusiast;Full+Stack+Explorer;Always+Learning+Something+New;&font=Fira+Code&center=true&width=440&height=40&color=FFFFFF&vCenter=true&size=22&pause=1000&background=676765&repeat=true" alt="Typing SVG"/>
 </a>
 
 </div>
@@ -115,7 +115,7 @@ class NadjwaSalsabila:
 
 <div align="center">
 
-<a href="https://linkedin.com/in/Nadjwa Salsabila" target="_blank">
+<a href="www.linkedin.com/in/nadjwa-salsabila-wirawanti-663984360" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
 </a>
 <a href="mailto:nadjwasalsabila16@gmail.com" target="_blank">
