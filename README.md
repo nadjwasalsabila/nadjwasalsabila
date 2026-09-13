@@ -14,7 +14,7 @@
 
 <br>
 
-## `01` ‧ Tentang Saya
+## `01` ‧ About Me
 
 <table>
 <tr>
