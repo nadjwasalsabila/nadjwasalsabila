@@ -129,7 +129,7 @@ class NadjwaSalsabila:
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=676765&height=100&section=footer" width="100%"/>
 
 <sub>Proudly crafted with 🖤 — Nad</sub>
 
